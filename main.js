@@ -1,4 +1,3 @@
-
 const template = document.querySelector("#pet-card-template")
 const wrapper = document.createDocumentFragment()
 
